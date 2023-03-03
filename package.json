@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "pdf-check": "md-to-pdf README.md --devtools",
     "pdf": "md-to-pdf README.md & move README.pdf resume.pdf"
   },
   "repository": {
