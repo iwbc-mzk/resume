@@ -1,0 +1,16 @@
+img {
+    margin: 1px 0px;
+}
+
+#skill-annotation {
+    font-size: 40%;
+}
+
+li {
+    list-style-type: none;
+}
+
+td ul {
+    padding: 0px;
+    margin: 0px;
+}
