@@ -1,53 +1,191 @@
-# プロフィール
+<link href="./style.css" rel="stylesheet"></link>
 
-### 性別
-男性
+# 基本情報
+<table>
+    <tbody>
+        <tr>
+            <td>年齢</td>
+            <td>31歳</td>
+            <td>性別</td>
+            <td>男性</td>
+        </tr>
+        <tr>
+            <td>学歴</td>
+            <td>某国立大学 理学部 物理学科 卒業</td>
+            <td>最寄り駅</td>
+            <td>東急池上線 雪が谷大塚駅</td>
+        </tr>
+        <tr>
+            <td>資格</td>
+            <td>
+                <ul>
+                    <li>Java SE8 認定資格 Silver (2017/05 取得)</li>
+                    <li>基本情報技術者 (2017/11 取得)</li>
+                    <li>情報処理安全確保支援士 (2018/12 取得)</li>
+                </ul>
+            <td>アウトプット等</td>
+            <td>
+                <ul>
+                    <li>
+                        <a href="https://github.com/iwbc-mzk" target="_blank" rel="noopener noreferrer">GitHub</a>
+                    </li>
+                    <li>
+                        <a href="https://portfolio.bibliophage.jp/" target="_blank" rel="noopener noreferrer">ポートフォリオサイト</a>
+                </ul>
+        </tr>
+        <tr>
+            <td>保有スキル</td>
+            <td colspan=3>
+                <ul>
+                    <li>Python, Djangoを用いたサーバーサイド開発</li>
+                    <li>React, Reduxを用いたフロントエンド開発</li>
+                    <li>衣料品商品開発の基礎知識</li>
+                </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
-### 年齢
-31歳
+<br>
 
-### 資格
-- Java SE8 認定資格 Silver (2017/05 取得)
-- 基本情報技術者 (2017/11 取得)
-- 情報処理安全確保支援士 (2018/12 取得)
+# 技術スタック <span id="skill-annotation"> 数字はITSSによるスキルレベル (7段階評価)</span>
+### 言語
+<span>
+    <img alt="Python" src="https://img.shields.io/badge/Python-4-dcdcdc?style=flat-square&logo=python&labelColor=3776AB&logoColor=white" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-3-dcdcdc?style=flat-square&logo=javascript&labelColor=F7DF1E&logoColor=white" />
+    <img alt="Go" src="https://img.shields.io/badge/Go-2-dcdcdc?style=flat-square&logo=go&labelColor=00ADD8&logoColor=white" />
+    <img alt="PL/SQL" src="https://img.shields.io/badge/PL/SQL-2-dcdcdc?style=flat-square&logo=PL/SQL&labelColor=a0522d&logoColor=white" />
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-3-dcdcdc?style=flat-square&logo=html5&labelColor=E34F26&logoColor=white" />
+</span>
 
-### 学歴
-某国立大学 理学部 物理学科 卒業
+### FW等
+<span>
+    <img alt="Django" src="https://img.shields.io/badge/Django-3-dcdcdc?style=flat-square&logo=django&labelColor=092E20&logoColor=white" />
+    <img alt="React" src="https://img.shields.io/badge/React-3-dcdcdc?style=flat-square&logo=react&labelColor=61DAFB&logoColor=white" />
+    <img alt="Redux" src="https://img.shields.io/badge/Redux-3-dcdcdc?style=flat-square&logo=redux&labelColor=764ABC&logoColor=white" />
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-3-dcdcdc?style=flat-square&logo=docker&labelColor=2496ED&logoColor=white" />
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-3-dcdcdc?style=flat-square&logo=node.js&labelColor=339933&logoColor=white" />
+</span>
 
-### 最寄駅
-東急池上線 雪が谷大塚駅
+### DB
+<span>
+    <img alt="Oracle" src="https://img.shields.io/badge/Oracle-2-dcdcdc?style=flat-square&logo=Oracle&labelColor=F80000&logoColor=white" />
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-2-dcdcdc?style=flat-square&logo=PostgreSQL&labelColor=4169E1&logoColor=white" />
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-2-dcdcdc?style=flat-square&logo=MongoDB&labelColor=47A248&logoColor=white" />
+    <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-1-dcdcdc?style=flat-square&logo=Elasticsearch&labelColor=005571&logoColor=white" />
+</span>
 
-### アプトプット等
-#### GitHubアカウント
-https://github.com/iwbc-mzk
+### サーバー・OS
+<span>
+    <img alt="AWS" src="https://img.shields.io/badge/AWS-2-dcdcdc?style=flat-square&logo=Amazon AWS&labelColor=232F3E&logoColor=white" />
+    <img alt="Google Cloud" src="https://img.shields.io/badge/Google Cloud-1-dcdcdc?style=flat-square&logo=Google Cloud&labelColor=4285F4&logoColor=white" />
+</span>
 
-#### その他
-https://portfolio.bibliophage.jp/
 
-<br />
+### ツール等
+<p>
+    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    <img alt="Confluence" src="https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" />
+    <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+    <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
+</p>
+
+<br>
 
 # 職務経歴
+
+## プロジェクト名
+衣料品開発販売会社 MKアセット管理システム プロジェクト
+
+### 概要
+マーケティング用アセットを管理するシステム。  
+他にもシーズン・部門単位で商品の販売数や売り上げ等を一覧できる機能やECサイト用の商品画像撮影管理機能等を提供していた。  
+主に画面機能の改修や新規機能追加を担当した。
+
+### プロジェクト規模
+全体 13\~15名  
+チーム 3\~4名
+
+### 期間
+2020/05 ~ 2022/08  
+2年4ヵ月 (28ヶ月)
+
+### 経験職種・役割
+- サーバーサイドエンジニア
+- フロントエンドエンジニア  
+
+### 使用技術
+- #### 言語
+  - JavaScript
+  - Python3
+  - Go
+- #### DB
+  - PostgreSQL
+  - MongoDB
+  - Elasticsearch
+- #### サーバ・OS
+  - Google Cloud Platform
+- #### FW・ツール等
+  - React
+  - Redux
+  - Node.js
+  - Docker
+  - Git
+  - GitHub
+  - Confluence
+  - Jira
+  - Slack
+
+### 担当工程
+- 詳細設計
+- 実装
+- 単体・結合テスト
+- 運用・保守
+
+### 担当業務
+- __画面機能開発__
+  - React, Reduxを用いた実装を担当。
+  - ユーザー利用端末の性能不足によるパフォーマンス問題に対して、仮想スクロール技術の導入の提案・実装を行った。
+  - ReduxのStore内の状態を正規化して保存するようにし、不要な再描画が発生しないように改善。
+
+- __データ更新用バッチ開発__
+  - PostgreSQLのデータを画面機能で利用してしているAPIに登録するバッチ処理の追加を担当。
+  - 一度に大量のデータを処理する必要がある場合があるためゴルーチンを用いて並行実行するようにした。
+  - 非同期処理中のリスト更新により生じたバグの修正のためMutexを利用した。
+
+- __API開発__
+  - Goで実装されたAPIのバグ修正や新規エンドポイントの追加を担当。
+
+- __他システムとのデータインターフェース開発__
+  - 他システムから連携されたCSVファイルをPostgreSQLに登録する処理をGoを用いて開発した。
+  - 障害の調査・修正を担当した。
+
+<br>
 
 ## プロジェクト名
 衣料品開発販売会社 PLMシステム プロジェクト
 
 ### 概要
-衣料品開発販売会社のPLMシステムの他システムとのデータインターフェースの開発・運用
+衣料品開発販売会社のPLMシステム開発。  
+主に他システムとのデータインターフェースの取り込み処理やサーバーサイドの実装を担当。
 
 ### プロジェクト規模
-15名前後 (自社3名前後)
+開発 13\~15名  
+チーム 2\~3名
 
 ### 期間
 2017/06 ~ 2019/11  
-2年5ヵ月
+2年5ヵ月 (29ヶ月)
 
 ### 経験職種・役割
-- バックエンド
+- サーバーサイドエンジニア
 
 ### 使用技術
+
 #### 言語
 - PL/SQL
-- Python
+- Python2
 #### DB
 - OracleDB
 - MongoDB
@@ -72,88 +210,24 @@ https://portfolio.bibliophage.jp/
 - 運用・保守
 
 ### 担当業務
-- __他システムとのデータインターフェースの開発・テスト・運用__  
-他システムから連携されたCSVデータをPL/SQLを用いて自システムDBに登録するプログラムの作成を行った。他システムと自システムではデータ構造が異なることが多かったため、バリデーションチェックに注意して実装を行った。
-他システムとのデータインターフェース開発では、自システムからCSVに出力したデータに不正なデータが混入する問題が頻発していた。この不正データによってデータ送信先のシステムににエラーが生じるなど不具合による影響が大きかったが、この問題は自システムで利用しているパッケージソフトの不具合であり、プロジェクト内で修正できない不具合であった。この問題に対応するため自システムから出力したCSVファイルをデータ連携先に送る前にPythonプログラムによる検証を行い、不正データの排除を行うことを提案・導入した。その結果、不正データによるエラーに対する対応業務が自・他システムで大きく削減することができた。
+- __他システムとのデータインターフェースの開発・テスト・運用__
+  - 他システムから連携されたCSVをPL/SQLを用いて自システムDBに登録する処理の実装を主に担当。
+  - 自システムから他システムへのCSV連携時に不正データが紛れ込む問題に対して、出力後の不正データチェックスクリプトの導入を提案・実装し、不正データによる対応業務の削減に貢献。
 
-- __データメンテナンス作業__  
-定常作業は手順をConfluenceに記載することで属人化することが無いようにした。
-メンテナンスを実施する際も手順を一つずつ丁寧に確認しつつ実施したため、特に問題を起こすことなく作業を進めることができた。
-ただ振り返るとメンテナンス作業を他人のチェックのない状況で実施するのは手順間違い等のミスにつながりかねないと感じるため、もし同様のプロジェクトがあった場合はダブルチェックを導入する等で対応したい。
+- __データメンテナンス作業__
+  - 手順をConfluenceに記載することで属人化することが無いようにした。
+  - ダブルチェック等のミスを減らす体制がなかったため、同様のプロジェクトがあった場合はダブルチェックを導入する等で対応したい。
 
-- __ユーザーからの問い合わせに関する調査・対応__  
-ユーザーからの不具合や使用法についての問い合わせに対して、原因調査やユーザーとのやり取りを担当した。
+- __ユーザーからの問い合わせに関する調査・対応__
+  - ユーザーからの不具合や使用法についての問い合わせに対して、原因調査・修正やユーザーとのやり取りを担当。
+  - ユーザーへ説明の際は必要以上に技術的な話にならないように、かみ砕いて説明するようにした。
 
-- __PLMシステムのサブ機能の開発・テスト・運用__    
-パッケージソフトウェアであったPLMシステムで実現できない機能(主にデータのExcel出力)を実現するためのPython, Djangoを用いたサブシステムが存在していた。このサブシステムの新規機能追加や改修等を担当した。
+- __PLMシステムのサーバーサイド開発__
+  - パッケージソフトウェアであったPLMシステムで実現できない機能を提供している、Python,Djangoで実装されたバックエンド機能の改修・機能追加を担当。
+  
+<br>
 
-<br />
-
-## プロジェクト名
-衣料品開発販売会社 MKアセット管理システム プロジェクト
-
-### 概要
-マーケティング用アセットを管理するシステム
-他にもシーズン・部門単位で商品の販売数や売り上げ等を一覧できる機能やECサイト用の商品画像撮影管理の機能等を提供していた
-
-### プロジェクト規模
-13名前後 (自社4名前後)
-
-### 期間
-2020/05 ~ 2022/08  
-2年4ヵ月
-
-### 経験職種・役割
-- バックエンド
-- フロントエンド
-
-### 使用技術
-#### 言語
-- JavaScript
-- Python
-- Go
-#### DB
-- PostgreSQL
-- MongoDB
-- Elasticsearch
-#### サーバ・OS
-- Google Cloud Platform
-#### FW・ツール等
-- React
-- Redux
-- Node.js
-- Docker
-- Git
-- GitHub
-- Confluence
-- Jira
-- Slack
-
-### 担当工程
-- 詳細設計
-- 実装
-- 単体・結合テスト
-- 運用・保守
-
-### 担当業務
-- __画面機能の改修・開発・テスト__  
-商品の画像や売上額・数量等をシーズン・部門別等の粒度で閲覧できる画面、商品の販売期間を一覧できる画面をReact, Reduxを用いて実装した。
-販売期間一覧画面では当初要件では一度に表示する商品は1シーズン・1部門の全商品が最大でせいぜい数百件程度だったが、複数シーズン・複数部門の全商品数千件をまとめて表示したいと要望があった。
-ユーザーが画面を利用する端末に第２世代IPad Air等が含まれており、単純に表示数を増やすだけではパフォーマンス悪化が無視できなかった。そのため仮想スクロールを導入し一度に表示する商品数を制限することで、低性能の端末でも快適に利用できる機能を実装できた。
-また不必要な再描画によるパフォーマンスの劣化を防ぐため、ReduxのStoreに保持するデータは正規化を行い必要なコンポーネントのみを再描画するようにした。
-
-- __データ更新用バッチ処理の開発・テスト・運用保守__  
-PostgreSQLのデータを画面機能で利用してしているAPIに登録するバッチ処理をGoを用いて開発した。
-一度に大量のデータを処理する必要がある場合があるためゴルーチンを用いて並行実行するようにした。また実行件数をログに出力するためカウント変数を処理の中でインクリメントしていたが競合状態になっていたため正常な数がログに出力されていなかったためMutexを導入し競合状態を解消した。
-
-- __APIの開発・改修__  
-Goで実装されたAPIのバグ修正や新規エンドポイントの追加を行った。
-
-- __他システムとのデータインターフェース処理の開発・テスト__  
-他システムから連携されてきたCSVファイルのデータをPostgreSQLに登録する処理をGoを用いて開発した。
-また障害の調査・修正・テストを行った。
-
-<br />
+# 個人開発
 
 ## プロジェクト名
 ポートフォリオサイト作成
@@ -163,13 +237,13 @@ Goで実装されたAPIのバグ修正や新規エンドポイントの追加を
 AWS EC2上にDockerコンテナを立てて公開している
 
 ### プロジェクト規模
-1名
+個人開発
 
 ### 期間
 2019/09 ~ 2019/10
 
 ### 使用技術
-- Python
+- Python3
 - JavaScript
 - Django
 - Bootstrap4
@@ -185,7 +259,7 @@ AWS EC2上にDockerコンテナを立てて公開している
 ### URL
 https://portfolio.bibliophage.jp/
 
-<br />
+<br>
 
 ## プロジェクト名
 手書き数字画像認識アプリ
@@ -194,7 +268,7 @@ https://portfolio.bibliophage.jp/
 スキル向上を目的としてニューラルネットワークを利用した手書き数字認識アプリを作成した
 
 ### プロジェクト規模
-1名
+個人開発
 
 ### 期間
 2020/09 ~ 2020/10
@@ -208,7 +282,7 @@ https://portfolio.bibliophage.jp/
 - AWS
 
 ### 工夫した点・意識した点
-udemyの「【徹底的に解説！】人工知能・機械学習エンジニア養成講座（初級編～統計学から数字認識まで～）」で機械学習を学んだのでそのアウトプットとして作成。
+udemyの「[【徹底的に解説！】人工知能・機械学習エンジニア養成講座（初級編～統計学から数字認識まで～）](https://www.udemy.com/course/machine-learning-3algo/)」で機械学習を学んだのでそのアウトプットとして作成。
 講座内では一つの画像を学習させた後、別の画像が学習した画像と同じ数字かどうかしか判別できなかったが、 改良を加えて何の数字が書かれているか判別できるようにした。
 数字の位置が中央からずれると判定精度が落ちたため、画像の前処理として画像の重心位置を取得し画像のセンタリング処理を行い改善を行った。
 
