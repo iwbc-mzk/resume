@@ -19,9 +19,18 @@
             <td>資格</td>
             <td>
                 <ul>
-                    <li>Java SE8 認定資格 Silver (2017/05 取得)</li>
+                    <li>
+                        <a href="https://www.credly.com/badges/77dadf02-6fb8-4cea-9482-b4f7e33a2546/public_url" target="_blank" rel="noopener noreferrer">
+                            Java SE8 認定資格 Silver (2017/05 取得)
+                        </a>
+                    </li>
                     <li>基本情報技術者 (2017/11 取得)</li>
                     <li>情報処理安全確保支援士 (2018/12 取得)</li>
+                    <li>
+                        <a href="https://www.credly.com/badges/ab972a39-89c4-4389-81c5-54f9b6c1da4a/public_url" target="_blank" rel="noopener noreferrer">
+                            AWS 認定ソリューションアーキテクト – アソシエイト【SAA-C03】(2023/4 取得)
+                        </a>
+                    </li>
                 </ul>
             <td>アウトプット等</td>
             <td>
