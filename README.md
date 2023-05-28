@@ -236,6 +236,52 @@
   
 <br>
 
+## プロジェクト名
+Kindleセール通知システム
+
+### 概要
+登録したKindleがセールとなったときにメールで通知を行うシステム。
+Chromeの拡張機能を利用してKindle商品ページから登録・解除を行う。
+
+### プロジェクト規模
+個人開発
+
+### 期間
+2023/05
+約5週間
+
+### 使用技術
+
+#### 言語
+- Python
+- TypeScript
+#### サーバ・OS
+- AWS
+  - Lambda
+  - Simple Notification Service (SNS)
+  - Simple Queue Service (SQS)
+  - DynamoDB
+  - Step Functions
+  - API Gateway
+  - Amazon EventBridge
+  - Elastic Container Registry (ECR)
+#### FW・ツール等
+- Docker
+- Git
+- GitHub
+- React
+- Chrome Extension
+- Terraform
+- Material-UI
+
+### システム構成図
+<image width=500 src="https://raw.githubusercontent.com/iwbc-mzk/kindle-sale-notification/92963a8109835b7d64ad2e8d472b7f96547b12d4/architecture.drawio.svg"></image>
+
+### URL
+https://github.com/iwbc-mzk/kindle-sale-notification
+
+<br>
+
 # 個人開発
 
 ## プロジェクト名
@@ -296,4 +342,4 @@ udemyの「[【徹底的に解説！】人工知能・機械学習エンジニ�
 数字の位置が中央からずれると判定精度が落ちたため、画像の前処理として画像の重心位置を取得し画像のセンタリング処理を行い改善を行った。
 
 ### URL
-https://portfolio.bibliophage.jp/numberClassifier/
+https://portfolio.bibliophage.jp/numberClassifier
