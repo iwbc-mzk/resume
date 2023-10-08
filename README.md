@@ -98,12 +98,12 @@
 
 # Statistics
 <p>
-    <img height="200px" src="https://github-readme-stats-iwbc-mzk.vercel.app/api?username=iwbc-mzk&count_private=true&show_icons=true" />
-    <img height="200px" src="https://github-readme-stats-iwbc-mzk.vercel.app/api/top-langs/?username=iwbc-mzk&layout=compact&hide=Jupyter%20Notebook&langs_count=8" />
+    <img width="300px" src="https://github-readme-stats-iwbc-mzk.vercel.app/api?username=iwbc-mzk&count_private=true&show_icons=true&disable_animations=true" />
+    <img width="300px" src="https://github-readme-stats-iwbc-mzk.vercel.app/api/top-langs/?username=iwbc-mzk&layout=compact&hide=Jupyter%20Notebook&langs_count=8&disable_animations=true" />
 </p>
 <p>
-    <img width="400px" src="https://atcoder-readme-stats.vercel.app/stats/iwbc_mzk?&show_icons=true">
-    <img width="400px" src="https://atcoder-readme-stats.vercel.app/heatmap/iwbc_mzk?type=ac">
+    <img width="300px" src="https://atcoder-readme-stats.vercel.app/stats/iwbc_mzk?&show_icons=true">
+    <img width="300px" src="https://atcoder-readme-stats.vercel.app/heatmap/iwbc_mzk?type=ac">
 </p>
 
 <br>
