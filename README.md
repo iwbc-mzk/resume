@@ -1,11 +1,11 @@
 <link href="./style.css" rel="stylesheet"></link>
 
-# 基本情報
+# Profile
 <table>
     <tbody>
         <tr>
             <td>年齢</td>
-            <td>31歳</td>
+            <td>32歳</td>
             <td>性別</td>
             <td>男性</td>
         </tr>
@@ -42,67 +42,72 @@
                         <a href="https://portfolio.bibliophage.jp/" target="_blank" rel="noopener noreferrer">ポートフォリオサイト</a>
                 </ul>
         </tr>
-        <tr>
-            <td>保有スキル</td>
-            <td colspan=3>
-                <ul>
-                    <li>Python, Djangoを用いたサーバーサイド開発</li>
-                    <li>React, Reduxを用いたフロントエンド開発</li>
-                    <li>衣料品商品開発の基礎知識</li>
-                </ul>
-            </td>
-        </tr>
     </tbody>
 </table>
 
 <br>
 
-# 技術スタック <span id="skill-annotation"> 数字はITSSによるスキルレベル (7段階評価)</span>
-### 言語
-<span>
-    <img alt="Python" src="https://img.shields.io/badge/Python-4-dcdcdc?style=flat-square&logo=python&labelColor=3776AB&logoColor=white" />
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-3-dcdcdc?style=flat-square&logo=javascript&labelColor=F7DF1E&logoColor=white" />
-    <img alt="Go" src="https://img.shields.io/badge/Go-2-dcdcdc?style=flat-square&logo=go&labelColor=00ADD8&logoColor=white" />
-    <img alt="PL/SQL" src="https://img.shields.io/badge/PL/SQL-2-dcdcdc?style=flat-square&logo=PL/SQL&labelColor=a0522d&logoColor=white" />
-    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-3-dcdcdc?style=flat-square&logo=html5&labelColor=E34F26&logoColor=white" />
-</span>
+# Technology Stack
 
-### FW等
-<span>
-    <img alt="Django" src="https://img.shields.io/badge/Django-3-dcdcdc?style=flat-square&logo=django&labelColor=092E20&logoColor=white" />
-    <img alt="React" src="https://img.shields.io/badge/React-3-dcdcdc?style=flat-square&logo=react&labelColor=61DAFB&logoColor=white" />
-    <img alt="Redux" src="https://img.shields.io/badge/Redux-3-dcdcdc?style=flat-square&logo=redux&labelColor=764ABC&logoColor=white" />
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-3-dcdcdc?style=flat-square&logo=docker&labelColor=2496ED&logoColor=white" />
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-3-dcdcdc?style=flat-square&logo=node.js&labelColor=339933&logoColor=white" />
-</span>
+<!-- 言語 -->
+<p>
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&labelColor=3776AB&logoColor=white" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&labelColor=F7DF1E&logoColor=white" />
+    <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&labelColor=00ADD8&logoColor=white" />
+    <img alt="PL/SQL" src="https://img.shields.io/badge/PL/SQL-a0522d?style=flat-square&logo=PL/SQL&labelColor=a0522d&logoColor=white" />
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&labelColor=E34F26&logoColor=white" />
+</p>
 
-### DB
-<span>
-    <img alt="Oracle" src="https://img.shields.io/badge/Oracle-2-dcdcdc?style=flat-square&logo=Oracle&labelColor=F80000&logoColor=white" />
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-2-dcdcdc?style=flat-square&logo=PostgreSQL&labelColor=4169E1&logoColor=white" />
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-2-dcdcdc?style=flat-square&logo=MongoDB&labelColor=47A248&logoColor=white" />
-    <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-1-dcdcdc?style=flat-square&logo=Elasticsearch&labelColor=005571&logoColor=white" />
-</span>
+<!-- FW -->
+<p>
+    <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&labelColor=092E20&logoColor=white" />
+    <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&labelColor=61DAFB&logoColor=white" />
+    <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&labelColor=764ABC&logoColor=white" />
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&labelColor=2496ED&logoColor=white" />
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&labelColor=339933&logoColor=white" />
+    <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-05988A?style=flat-square&logo=fastapi&labelColor=05988A&logoColor=white" />
+</p>
 
-### サーバー・OS
-<span>
-    <img alt="AWS" src="https://img.shields.io/badge/AWS-2-dcdcdc?style=flat-square&logo=Amazon AWS&labelColor=232F3E&logoColor=white" />
-    <img alt="Google Cloud" src="https://img.shields.io/badge/Google Cloud-1-dcdcdc?style=flat-square&logo=Google Cloud&labelColor=4285F4&logoColor=white" />
-</span>
+<!-- DB -->
+<p>
+    <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&labelColor=F80000&logoColor=white" />
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&labelColor=4169E1&logoColor=white" />
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&labelColor=47A248&logoColor=white" />
+    <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&labelColor=005571&logoColor=white" />
+</p>
 
+<!-- Server・OS -->
+<p>
+    <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&labelColor=232F3E&logoColor=white" />
+    <img alt="Google Cloud" src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat-square&logo=Google Cloud&labelColor=4285F4&logoColor=white" />
+    <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009137?style=flat-square&logo=Nginx&labelColor=009137&logoColor=white" />
+</p>
 
-### ツール等
+<!-- Tools -->
 <p>
     <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
     <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
     <img alt="Confluence" src="https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" />
     <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+    <img alt="Redmine" src="https://img.shields.io/badge/-Redmine-C52E1E?style=flat-square&logo=redmine&logoColor=white" />
     <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
 </p>
 
 <br>
 
-# 職務経歴
+# Statistics
+<p>
+    <img height="200px" src="https://github-readme-stats-iwbc-mzk.vercel.app/api?username=iwbc-mzk&count_private=true&show_icons=true" />
+    <img height="200px" src="https://github-readme-stats-iwbc-mzk.vercel.app/api/top-langs/?username=iwbc-mzk&layout=compact&hide=Jupyter%20Notebook&langs_count=8" />
+</p>
+<p>
+    <img width="400px" src="https://atcoder-readme-stats.vercel.app/stats/iwbc_mzk?&show_icons=true">
+    <img width="400px" src="https://atcoder-readme-stats.vercel.app/heatmap/iwbc_mzk?type=ac">
+</p>
+
+<br>
+
+# Work Experience
 
 ## プロジェクト名
 衣料品開発販売会社 MKアセット管理システム プロジェクト
@@ -125,26 +130,41 @@
 - フロントエンドエンジニア  
 
 ### 使用技術
-- #### 言語
-  - JavaScript
-  - Python3
-  - Go
-- #### DB
-  - PostgreSQL
-  - MongoDB
-  - Elasticsearch
-- #### サーバ・OS
-  - Google Cloud Platform
-- #### FW・ツール等
-  - React
-  - Redux
-  - Node.js
-  - Docker
-  - Git
-  - GitHub
-  - Confluence
-  - Jira
-  - Slack
+
+<p>
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&labelColor=3776AB&logoColor=white" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&labelColor=F7DF1E&logoColor=white" />
+    <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&labelColor=00ADD8&logoColor=white" />
+</p>
+
+<!-- FW -->
+<p>
+    <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&labelColor=61DAFB&logoColor=white" />
+    <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&labelColor=764ABC&logoColor=white" />
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&labelColor=2496ED&logoColor=white" />
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&labelColor=339933&logoColor=white" />
+</p>
+
+<!-- DB -->
+<p>
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&labelColor=4169E1&logoColor=white" />
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&labelColor=47A248&logoColor=white" />
+    <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&labelColor=005571&logoColor=white" />
+</p>
+
+<!-- Server・OS -->
+<p>
+    <img alt="Google Cloud" src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat-square&logo=Google Cloud&labelColor=4285F4&logoColor=white" />
+</p>
+
+<!-- Tools -->
+<p>
+    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    <img alt="Confluence" src="https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" />
+    <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+    <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
+</p>
 
 ### 担当工程
 - 詳細設計
@@ -192,25 +212,40 @@
 
 ### 使用技術
 
-#### 言語
-- PL/SQL
-- Python2
-#### DB
-- OracleDB
-- MongoDB
-#### サーバ・OS
-- AWS
-#### FW・ツール等
-- Django
-- Docker
-- Subversion
-- Git
-- GitHub
-- Confluence
-- Jira
-- Redmine
-- Box
-- Slack
+<p>
+    <img alt="Python" src="https://img.shields.io/badge/Python2-3776AB?style=flat-square&logo=python&labelColor=3776AB&logoColor=white" />
+    <img alt="PL/SQL" src="https://img.shields.io/badge/PL/SQL-a0522d?style=flat-square&logo=PL/SQL&labelColor=a0522d&logoColor=white" />
+</p>
+
+<!-- FW -->
+<p>
+    <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&labelColor=092E20&logoColor=white" />
+    <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&labelColor=61DAFB&logoColor=white" />
+    <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&labelColor=764ABC&logoColor=white" />
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&labelColor=2496ED&logoColor=white" />
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&labelColor=339933&logoColor=white" />
+</p>
+
+<!-- DB -->
+<p>
+    <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&labelColor=F80000&logoColor=white" />
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&labelColor=47A248&logoColor=white" />
+</p>
+
+<!-- Server・OS -->
+<p>
+    <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&labelColor=232F3E&logoColor=white" />
+</p>
+
+<!-- Tools -->
+<p>
+    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    <img alt="Confluence" src="https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" />
+    <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+    <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
+    <img alt="Redmine" src="https://img.shields.io/badge/-Redmine-C52E1E?style=flat-square&logo=redmine&logoColor=white" />
+</p>
 
 ### 担当工程
 - 詳細設計
@@ -234,6 +269,43 @@
 - __PLMシステムのサーバーサイド開発__
   - パッケージソフトウェアであったPLMシステムで実現できない機能を提供している、Python,Djangoで実装されたバックエンド機能の改修・機能追加を担当。
   
+<br>
+
+# 個人開発
+
+## プロジェクト名
+AtCoder Readme Stats
+
+### 概要
+[anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) に触発されて作成   
+AtCoderの現在のレーティングや参加履歴、提出履歴等をGitHubのReadme等のMarkdownに表示する
+
+### プロジェクト規模
+個人開発
+
+### 期間
+2023/06 ~ 
+
+### 使用技術
+
+<p>
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&labelColor=3776AB&logoColor=white" />
+    <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-05988A?style=flat-square&logo=fastapi&labelColor=05988A&logoColor=white" />
+    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    <img alt="GitHubActions" src="https://img.shields.io/badge/-GitHub Actions-181717?style=flat-square&logo=githubactions&logoColor=white" />
+</p>
+
+### 表示例
+#### Stats Card
+<img width="400px" src="https://atcoder-readme-stats.vercel.app/stats/iwbc_mzk?&show_icons=true&show_history=3">
+
+#### Submission Card
+<img width="400px" src="https://atcoder-readme-stats.vercel.app/heatmap/iwbc_mzk?type=ac">
+
+### URL
+[iwbc-mzk/atcoder-readme-stats](https://github.com/iwbc-mzk/atcoder-readme-stats)
+
 <br>
 
 ## プロジェクト名
@@ -281,8 +353,6 @@ Chromeの拡張機能を利用してKindle商品ページから登録・解除�
 https://github.com/iwbc-mzk/kindle-sale-notification
 
 <br>
-
-# 個人開発
 
 ## プロジェクト名
 ポートフォリオサイト作成
