@@ -53,6 +53,7 @@
 <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&labelColor=3776AB&logoColor=white" />
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&labelColor=F7DF1E&logoColor=white" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&labelColor=3178C6&logoColor=white" />
     <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&labelColor=00ADD8&logoColor=white" />
     <img alt="PL/SQL" src="https://img.shields.io/badge/PL/SQL-a0522d?style=flat-square&logo=PL/SQL&labelColor=a0522d&logoColor=white" />
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&labelColor=E34F26&logoColor=white" />
@@ -217,7 +218,6 @@
     <img alt="PL/SQL" src="https://img.shields.io/badge/PL/SQL-a0522d?style=flat-square&logo=PL/SQL&labelColor=a0522d&logoColor=white" />
 </p>
 
-<!-- FW -->
 <p>
     <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&labelColor=092E20&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&labelColor=61DAFB&logoColor=white" />
@@ -226,18 +226,15 @@
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&labelColor=339933&logoColor=white" />
 </p>
 
-<!-- DB -->
 <p>
     <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&labelColor=F80000&logoColor=white" />
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&labelColor=47A248&logoColor=white" />
 </p>
 
-<!-- Server・OS -->
 <p>
     <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&labelColor=232F3E&logoColor=white" />
 </p>
 
-<!-- Tools -->
 <p>
     <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
     <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
@@ -293,7 +290,7 @@ AtCoderの現在のレーティングや参加履歴、提出履歴等をGitHub�
     <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-05988A?style=flat-square&logo=fastapi&labelColor=05988A&logoColor=white" />
     <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
     <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-    <img alt="GitHubActions" src="https://img.shields.io/badge/-GitHub Actions-181717?style=flat-square&logo=githubactions&logoColor=white" />
+    <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub Actions-181717?style=flat-square&logo=githubactions&logoColor=white" />
 </p>
 
 ### 表示例
@@ -325,32 +322,39 @@ Chromeの拡張機能を利用してKindle商品ページから登録・解除�
 ### 使用技術
 
 #### 言語
-- Python
-- TypeScript
-#### サーバ・OS
-- AWS
-  - Lambda
-  - Simple Notification Service (SNS)
-  - Simple Queue Service (SQS)
-  - DynamoDB
-  - Step Functions
-  - API Gateway
-  - Amazon EventBridge
-  - Elastic Container Registry (ECR)
-#### FW・ツール等
-- Docker
-- Git
-- GitHub
-- React
-- Chrome Extension
-- Terraform
-- Material-UI
+
+<p>
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&labelColor=3776AB&logoColor=white" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&labelColor=3178C6&logoColor=white" />
+    <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&labelColor=61DAFB&logoColor=white" />
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&labelColor=339933&logoColor=white" />
+</p>
+
+<!-- Server・OS -->
+<p>
+    <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&labelColor=232F3E&logoColor=white" />
+    <img alt="AWS Lambda" src="https://img.shields.io/badge/AWS Lambda-FF9900?style=flat-square&logo=AWS Lambda&labelColor=FF9900&logoColor=white" />
+    <img alt="AWS SNS" src="https://img.shields.io/badge/AWS SNS-232F3E?style=flat-square&logo=AWSSNS&labelColor=232F3E&logoColor=white" />
+    <img alt="AWS SQS" src="https://img.shields.io/badge/AWS SQS-FF4F8B?style=flat-square&logo=amazon sqs&labelColor=FF4F8B&logoColor=white" />
+    <img alt="Amazon DynamoDB" src="https://img.shields.io/badge/Amazon DynamoDB-4053D6?style=flat-square&logo=amazon dynamodb&labelColor=4053D6&logoColor=white" />
+    <img alt="AWS Step Functions" src="https://img.shields.io/badge/AWS Step Functions-232F3E?style=flat-square&logo=&labelColor=232F3E&logoColor=white" />
+    <img alt="Amazon API Gateway" src="https://img.shields.io/badge/Amazon API Gateway-FF4F8B?style=flat-square&logo=amazon api gateway&labelColor=FF4F8B&logoColor=white" />
+    <img alt="Amazon ECS" src="https://img.shields.io/badge/Amazon ECS-FF9900?style=flat-square&logo=amazon ecs&labelColor=FF9900&logoColor=white" />
+</p>
+
+<!-- Tools -->
+<p>
+    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
+    <img alt="Chrome Extension" src="https://img.shields.io/badge/-Chrome Extension-4285F4?style=flat-square&logo=google chrome&logoColor=white" />
+</p>
 
 ### システム構成図
 <image width=500 src="https://raw.githubusercontent.com/iwbc-mzk/kindle-sale-notification/92963a8109835b7d64ad2e8d472b7f96547b12d4/architecture.drawio.svg"></image>
 
 ### URL
-https://github.com/iwbc-mzk/kindle-sale-notification
+[iwbc-mzk/kindle-sale-notification](https://github.com/iwbc-mzk/kindle-sale-notification)
 
 <br>
 
@@ -368,13 +372,15 @@ AWS EC2上にDockerコンテナを立てて公開している
 2019/09 ~ 2019/10
 
 ### 使用技術
-- Python3
-- JavaScript
-- Django
-- Bootstrap4
-- Docker
-- nginx
-- AWS
+<p>
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&labelColor=3776AB&logoColor=white" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&labelColor=F7DF1E&logoColor=white" />
+    <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&labelColor=092E20&logoColor=white" />
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&labelColor=2496ED&logoColor=white" />
+    <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&labelColor=232F3E&logoColor=white" />
+    <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009137?style=flat-square&logo=Nginx&labelColor=009137&logoColor=white" />
+</p>
+
 
 ### 工夫した点・意識した点
 - 独自ドメインでアクセスできるようにした。
@@ -399,12 +405,14 @@ https://portfolio.bibliophage.jp/
 2020/09 ~ 2020/10
 
 ### 使用技術
-- Python
-- JavaScript
-- Django
-- Docker
-- nginx
-- AWS
+<p>
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&labelColor=3776AB&logoColor=white" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&labelColor=F7DF1E&logoColor=white" />
+    <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&labelColor=092E20&logoColor=white" />
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&labelColor=2496ED&logoColor=white" />
+    <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&labelColor=232F3E&logoColor=white" />
+    <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009137?style=flat-square&logo=Nginx&labelColor=009137&logoColor=white" />
+</p>
 
 ### 工夫した点・意識した点
 udemyの「[【徹底的に解説！】人工知能・機械学習エンジニア養成講座（初級編～統計学から数字認識まで～）](https://www.udemy.com/course/machine-learning-3algo/)」で機械学習を学んだのでそのアウトプットとして作成。
