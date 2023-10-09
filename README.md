@@ -102,8 +102,8 @@
     <img width="300px" src="https://github-readme-stats-iwbc-mzk.vercel.app/api/top-langs/?username=iwbc-mzk&layout=compact&hide=Jupyter%20Notebook&langs_count=8&disable_animations=true" />
 </p>
 <p>
-    <img width="300px" src="https://atcoder-readme-stats.vercel.app/stats/iwbc_mzk?&show_icons=true">
-    <img width="300px" src="https://atcoder-readme-stats.vercel.app/heatmap/iwbc_mzk?type=ac">
+    <img width="300px" src="https://atcoder-readme-stats.vercel.app/stats/iwbc_mzk?&show_icons=true&disable_animations=true">
+    <img width="300px" src="https://atcoder-readme-stats.vercel.app/heatmap/iwbc_mzk?type=ac&disable_animations=true">
 </p>
 
 <br>
@@ -295,10 +295,10 @@ AtCoderの現在のレーティングや参加履歴、提出履歴等をGitHub�
 
 ### 表示例
 #### Stats Card
-<img width="400px" src="https://atcoder-readme-stats.vercel.app/stats/iwbc_mzk?&show_icons=true&show_history=3">
+<img width="400px" src="https://atcoder-readme-stats.vercel.app/stats/iwbc_mzk?&show_icons=true&show_history=3&disable_animations=true">
 
 #### Submission Card
-<img width="400px" src="https://atcoder-readme-stats.vercel.app/heatmap/iwbc_mzk?type=ac">
+<img width="400px" src="https://atcoder-readme-stats.vercel.app/heatmap/iwbc_mzk?type=ac&disable_animations=true">
 
 ### URL
 [iwbc-mzk/atcoder-readme-stats](https://github.com/iwbc-mzk/atcoder-readme-stats)
